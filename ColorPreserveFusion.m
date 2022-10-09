@@ -23,12 +23,11 @@
 % fused image that contains better scene details and similar colors to
 % the VS image. Please refer to the following paper:
 %
-% M. Awad, A. Elliethy, and H. A. Aly, “Adaptive near-infrared and visible
-% fusion for fast image enhancement,” IEEE Trans. Comp. Imaging, pp.1–11,
+% M. Awad, A. Elliethy, and H. A. Aly, â€œAdaptive near-infrared and visible
+% fusion for fast image enhancement,â€ IEEE Trans. Comp. Imaging, pp.1â€“11,
 % Nov. 2019.
 %
-% Kindly report any suggestions or corrections to the author emails:
-% awad.mrms@gmail.com, a.s.elliethy@mtc.edu.eg, haly@ieee.org
+% Kindly report any suggestions or corrections to the author emails.
 %
 %----------------------------------------------------------------------
 %
