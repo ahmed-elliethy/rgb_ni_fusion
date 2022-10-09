@@ -21,12 +21,11 @@
 % This is an implementation of the local contrast estimation of an image.
 % Please refer to the following paper:
 %
-% M. Awad, A. Elliethy, and H. A. Aly, ìAdaptive near-infrared and visible
-% fusion for fast image enhancement,î IEEE Trans. Comp. Imaging, pp.1ñ11,
+% M. Awad, A. Elliethy, and H. A. Aly, ‚ÄúAdaptive near-infrared and visible
+% fusion for fast image enhancement,‚Äù IEEE Trans. Comp. Imaging, pp.1‚Äì11,
 % Nov. 2019.
 %
-% Kindly report any suggestions or corrections to the author emails:
-% awad.mrms@gmail.com, a.s.elliethy@mtc.edu.eg, haly@ieee.org
+% Kindly report any suggestions or corrections to the author emails.
 %
 %========================================================================
 
